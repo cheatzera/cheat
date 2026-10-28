@@ -1,6 +1,4 @@
 CheatOptimizer
-🚀 Bem-vindo ao CheatOptimizer!
-Este repositório contém o site oficial de otimização de PCs para games, feito para melhorar desempenho, reduzir input lag e maximizar FPS.
 
 🔹 Sobre o site
 O CheatOptimizer oferece soluções completas para otimização de PCs gamers, incluindo:
