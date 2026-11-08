@@ -19,4 +19,7 @@ Tudo é feito **100% remotamente**, de forma rápida e segura.
 
 ---
 
-## 💻 Tecnologias utilizadas
+## ⚡ Contato
+
+Para otimizações ou dúvidas, entre em contato exclusivamente via **Discord**:  
+https://discord.gg/z3XfdrfY
